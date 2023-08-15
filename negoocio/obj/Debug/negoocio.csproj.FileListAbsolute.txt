@@ -1,0 +1,18 @@
+D:\Curso nivel 2 C#\App Pokemon-Pokedex\negoocio\bin\Debug\negoocio.dll
+D:\Curso nivel 2 C#\App Pokemon-Pokedex\negoocio\bin\Debug\negoocio.pdb
+D:\Curso nivel 2 C#\App Pokemon-Pokedex\negoocio\bin\Debug\dominio.dll
+D:\Curso nivel 2 C#\App Pokemon-Pokedex\negoocio\bin\Debug\dominio.pdb
+D:\Curso nivel 2 C#\App Pokemon-Pokedex\negoocio\obj\Debug\negoocio.csproj.AssemblyReference.cache
+D:\Curso nivel 2 C#\App Pokemon-Pokedex\negoocio\obj\Debug\negoocio.csproj.CoreCompileInputs.cache
+D:\Curso nivel 2 C#\App Pokemon-Pokedex\negoocio\obj\Debug\negoocio.csproj.CopyComplete
+D:\Curso nivel 2 C#\App Pokemon-Pokedex\negoocio\obj\Debug\negoocio.dll
+D:\Curso nivel 2 C#\App Pokemon-Pokedex\negoocio\obj\Debug\negoocio.pdb
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\negoocio\bin\Debug\negoocio.dll
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\negoocio\bin\Debug\negoocio.pdb
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\negoocio\bin\Debug\dominio.dll
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\negoocio\bin\Debug\dominio.pdb
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\negoocio\obj\Debug\negoocio.csproj.AssemblyReference.cache
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\negoocio\obj\Debug\negoocio.csproj.CoreCompileInputs.cache
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\negoocio\obj\Debug\negoocio.csproj.CopyComplete
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\negoocio\obj\Debug\negoocio.dll
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\negoocio\obj\Debug\negoocio.pdb
