@@ -12,11 +12,7 @@ namespace Pokemon_Pokedex_App
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if((Session["usuario"] != null && ((dominio.Usuario)Session["usuario"]).TipoUsuario == dominio.TipoUsuario.ADMIN))
-            {
-                Session.Add("error", "no tienes los permisos para ingresar aqui");
-                Response.Redirect("error.aspx", false);
-            }
+            
                    
         }
     }

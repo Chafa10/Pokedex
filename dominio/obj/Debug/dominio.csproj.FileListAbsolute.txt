@@ -10,3 +10,9 @@ D:\Curso nivel 3 c#.net\Pokemon Pokedex App\dominio\obj\Debug\dominio.csproj.Ass
 D:\Curso nivel 3 c#.net\Pokemon Pokedex App\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 D:\Curso nivel 3 c#.net\Pokemon Pokedex App\dominio\obj\Debug\dominio.dll
 D:\Curso nivel 3 c#.net\Pokemon Pokedex App\dominio\obj\Debug\dominio.pdb
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\Pokedex\dominio\bin\Debug\dominio.dll
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\Pokedex\dominio\bin\Debug\dominio.pdb
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\Pokedex\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\Pokedex\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\Pokedex\dominio\obj\Debug\dominio.dll
+D:\Curso nivel 3 c#.net\Pokemon Pokedex App\Pokedex\dominio\obj\Debug\dominio.pdb

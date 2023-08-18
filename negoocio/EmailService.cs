@@ -29,7 +29,8 @@ namespace negoocio
             email.To.Add(emailDestino);
             email.Subject = asunto;
             email.IsBodyHtml= true;
-            email.Body = "<h1>Reporte de verificacion</h1> <br> El mensaje fue un exito!";
+            //email.Body = "<h1>Reporte de verificacion</h1> <br> El mensaje fue un exito!";
+            email.Body= emailDestino;
         }
 
         public void enviarEmail()

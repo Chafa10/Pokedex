@@ -18,22 +18,9 @@ namespace Pokemon_Pokedex_App
 
         protected void btnIngresar_Click(object sender, EventArgs e)
         {
-            Usuario usuario;
-            UsuarioNegocio negocio = new UsuarioNegocio();
             try
             {
-                usuario = new Usuario(txtUsuario.Text, txtPassword.Text, false);
-                if (negocio.Logear(usuario))
-                {
-                    Session.Add("usuario", usuario);
-                    Response.Redirect("Menu.aspx", false);
-
-                }
-                else
-                {
-                    Session.Add("error", "Usuario o password incorrectos");
-                    Response.Redirect("Error.aspx", false);
-                }
+                
                 
                
 
